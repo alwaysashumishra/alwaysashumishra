@@ -76,15 +76,11 @@ MongoDB • MySQL • Git • GitHub • AWS • Socket.io
   <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysashumishra&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=alwaysashumishra&theme=dark&include_all_commits=true&count_private=true" height="150"/>
-</p>
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysashumishra&theme=dark&layout=compact"/>
-</p>
+- 🔥 Consistent daily contributions  
+- 🧠 Real-world product focused projects  
+- 🚀 Frontend + AI + Backend exposure  
 
 <p align="center"><b>Consistency &gt; Perfection</b></p>
 
@@ -101,14 +97,13 @@ MongoDB • MySQL • Git • GitHub • AWS • Socket.io
   <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
 </p>
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alwaysashumishra&theme=onestar&no-frame=true&margin-w=10"/>
-</p>
+## 🏅 Highlights
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
-</p>
+- ⭐ Active open-source contributor  
+- 🔥 Consistent GitHub activity  
+- 🚀 Multiple real-world projects  
+- 🧠 Full-stack + AI exposure  
+
 
 ## 🤝 Let’s Connect
 Open to **internships, freelance, startups & collaborations** 🚀
@@ -121,8 +116,6 @@ Open to **internships, freelance, startups & collaborations** 🚀
   ❤️ Made with passion by <b>Ashu</b>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alwaysashumishra&icon=5&color=1"/>
-</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=18B8D0&height=120&section=footer"/>
