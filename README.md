@@ -94,7 +94,8 @@ MongoDB • MySQL • Git • GitHub • AWS • Socket.io
 
 ## 🐍 Contribution Animation
 <!-- AFTER SETTING SNAKE ACTION, THIS WILL AUTO-LOAD -->
-![snake animation](https://github.com/alwaysashumishra/alwaysashumishra/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/alwaysashumishra/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
