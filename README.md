@@ -1,121 +1,241 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=18B8D0&height=120&section=header"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=38&pause=1000&color=18B8D0&center=true&vCenter=true&width=1000&lines=Hi+I'm+Ashu+%F0%9F%91%8B;React+Developer+%7C+AI+Enthusiast;Building+Scalable+Web+%26+App+Solutions" />
-</p>
+# 👋 Hey, I'm Ashutosh Mishra
 
-<p align="center">
-  <img src="https://github.com/alwaysashumishra/alwaysashumishra/blob/main/github-readme-profile.gif" width="70%" />
-</p>
+### React Developer • Full Stack Engineer • AI Enthusiast
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+Spring+Boot;AI+Powered+Products;Always+Learning+Something+New+🚀" />
 
-## 🚀 About Me
-I'm **Ashutosh Mishra (Ashu)** — a **React Developer** focused on building **real-world, scalable web & app products**.
+<img src="https://github.com/alwaysashumishra/alwaysashumishra/blob/main/github-readme-profile.gif" width="75%">
 
-- 🔭 Frontend-heavy developer with a strong **product mindset**
-- 🎓 B.Tech CSE (AI & ML) @ Galgotias University
-- 🌱 Learning **AWS, Machine Learning & Spring Boot**
-- 💡 Love clean UI, animations & practical problem-solving
-- 🎧 Side project: **LOFI / Slowed + Reverb** music on YouTube
-
-📩 **Let’s build something impactful together.**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
-</p>
-
-## 🧰 Tech Arsenal
-### ⚡ Frontend
-React • JavaScript • HTML • CSS • TailwindCSS
-
-### 🛠 Backend
-Node.js • Java • Spring Boot • REST APIs
-
-### 🗄 Databases & Tools
-MongoDB • MySQL • Git • GitHub • AWS • Socket.io
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
-</p>
-
-## 🏗 Featured Projects
-
-### 🌾 Kisan.ai — *AI-Powered Agriculture Platform*
-**Empowering farmers with data-driven decisions**
-- 🌱 Crop disease detection using ML
-- 💧 Smart irrigation & fertilizer recommendations
-- 📈 Crop price prediction (onion, potato, pulses)
-- 💬 Community support system
-- 🌐 Multilingual UI (Hindi + English)  
-**Tech:** `React • Node.js • MongoDB • ML • REST APIs`
+</div>
 
 ---
 
-### 🌿 Vedix.ai — *Personalized Wellness & Health AI*
-**AI that understands your body**
-- 🧠 AI-based health & lifestyle insights
-- 📊 Personalized dashboards
-- 🧬 Diet & routine recommendations
-- 🔐 Secure profiles & data handling  
-**Tech:** `React • Java • Spring Boot • MySQL • AI Models`
+# 💫 About Me
+
+💻 Passionate about building scalable web applications and AI-powered products.
+
+- 🚀 Frontend Developer with strong product thinking
+- 🎓 B.Tech CSE (AI & ML) — Galgotias University
+- 🌱 Currently exploring AWS, Machine Learning & Spring Boot
+- ✨ Love beautiful UI, animations and clean architecture
+- 🤖 Building AI-powered SaaS products
+- 🎧 Creating LOFI / Slowed + Reverb music on YouTube
+
+> **"Great products are built by solving real problems."**
 
 ---
 
-### 🍽 Rasoi Run — *Smart Food Ordering & Kitchen Management*
-**From kitchen to customer, faster**
-- 🛒 Online food ordering
-- 👨‍🍳 Kitchen order dashboard
-- ⏱ Real-time order tracking
-- 📊 Admin analytics (payments planned)  
-**Tech:** `React • Node.js • MongoDB • Socket.io`
+# ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
 </p>
 
-## 📈 GitHub Activity
+## ⚡ Backend
 
-- 🔥 Consistent daily contributions  
-- 🧠 Real-world product focused projects  
-- 🚀 Frontend + AI + Backend exposure  
-
-<p align="center"><b>Consistency &gt; Perfection</b></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
-## 🐍 Contribution Animation
-<!-- AFTER SETTING SNAKE ACTION, THIS WILL AUTO-LOAD -->
-![snake animation](https://github.com/alwaysashumishra/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg)
+## 🗄 Database
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B8D0&height=2"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 🏅 Highlights
+## ☁️ Cloud & DevOps
 
-- ⭐ Active open-source contributor  
-- 🔥 Consistent GitHub activity  
-- 🚀 Multiple real-world projects  
-- 🧠 Full-stack + AI exposure  
-
-
-## 🤝 Let’s Connect
-Open to **internships, freelance, startups & collaborations** 🚀
-
-- 📧 Email: ashutoshmmishra15@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ashutosh-mishra-am-108880282/  
-- 📸 Instagram: https://www.instagram.com/alwaysashumishra/
-
-<p align="center">
-  ❤️ Made with passion by <b>Ashu</b>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
 </p>
 
+## 💻 Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,linux" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=18B8D0&height=120&section=footer"/>
+---
+
+# 🚀 Featured Projects
+
+## 🌾 Kisan.ai
+
+### AI Powered Agriculture Platform
+
+Helping farmers make smarter farming decisions.
+
+### Features
+
+- 🌱 AI Crop Disease Detection
+- 💧 Smart Irrigation Recommendation
+- 📈 Crop Price Prediction
+- 💬 Farmer Community
+- 🌍 Hindi & English Support
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `Machine Learning` `REST API`
+
+---
+
+## 🤖 AI WhatsApp Business Automation
+
+### Intelligent Business Automation SaaS
+
+AI-powered customer support platform for WhatsApp Business.
+
+### Features
+
+- 🤖 AI Customer Support
+- 📄 Document Knowledge Base
+- 💬 Automated WhatsApp Replies
+- 📊 Business Dashboard
+- 💳 Subscription Management
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `AI`
+
+---
+
+## 🍽 Rasoi Run
+
+### Smart Food Ordering Platform
+
+A modern restaurant ordering experience.
+
+### Features
+
+- 🛒 Online Food Ordering
+- 👨‍🍳 Kitchen Dashboard
+- 📦 Live Order Tracking
+- 📊 Admin Analytics
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB`
+
+---
+
+## ❤️ Vedix.ai
+
+### AI Wellness Platform
+
+Personalized health insights powered by AI.
+
+### Features
+
+- 🧠 AI Health Assistant
+- 📊 Personalized Dashboard
+- 🥗 Diet Suggestions
+- 🔐 Secure Authentication
+
+**Tech Stack**
+
+`React` `Spring Boot` `Java` `MySQL`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alwaysashumishra&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysashumishra&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysashumishra&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alwaysashumishra&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/alwaysashumishra/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+✨ Built multiple real-world products
+
+🚀 AI + Full Stack Development
+
+💡 Strong React ecosystem knowledge
+
+🌱 Continuous learner
+
+🤝 Open Source Enthusiast
+
+---
+
+# 🌟 Current Focus
+
+```text
+⚛️ Advanced React
+██████████████████████ 100%
+
+🌐 Full Stack Development
+████████████████████░░ 90%
+
+🤖 Artificial Intelligence
+█████████████████░░░░░ 75%
+
+☁️ AWS Cloud
+█████████████░░░░░░░░░ 60%
+
+📱 Mobile Development
+████████████░░░░░░░░░░ 55%
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:ashutoshmmishra15@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashutosh-mishra-am-108880282/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/alwaysashumishra/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting!
+
+### If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
